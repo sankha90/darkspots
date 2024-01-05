@@ -5,8 +5,6 @@ from PIL import Image
 import tensorflow as tf
 import os
 import json
-import cv2
-
 
 # Streamlit settings
 st.set_page_config(
